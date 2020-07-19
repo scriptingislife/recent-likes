@@ -1,5 +1,5 @@
 # recent-likes
-Place my recently liked Spotify songs into a playlist that's more easily downloaded.
+Place recently liked Spotify songs into a playlist that's more easily downloaded.
 
 ## Create an App
 1. Create a new app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
