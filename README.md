@@ -1,4 +1,4 @@
-# recent-likes
+# Recent Likes
 Place recently liked Spotify songs into a playlist that's more easily downloaded.
 
 ## Create an App
@@ -7,7 +7,7 @@ Place recently liked Spotify songs into a playlist that's more easily downloaded
 3. Select `Edit Settings` and add the Redirect URI `http://localhost:9090` and save.
 
 ## Create a Playlist
-1. Create a playlist. I call mine `Recent Likes`.
+1. Create a playlist with a name like `Recent Likes`.
 2. Right-click and select `Share` then `Copy Spotify URI`.
 
 ## Environment Setup
