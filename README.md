@@ -12,7 +12,8 @@ Place my recently liked Spotify songs into a playlist that's more easily downloa
 
 ## Environment Setup
 1. Install Spotipy with `pip install spotipy --upgrade`
-2. Run the following lines, filling in the variables.
+2. Run the commands below, filling in the variables.
+3. Run the script with `python update-songs.py`
 
 ```sh
 export SPOTIPY_CLIENT_ID=''
