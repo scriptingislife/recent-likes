@@ -18,9 +18,9 @@ package:
   exclude:
     - node_modules/**
     - package-lock.json
+    - package.json
     - venv/**
     - README.md
-    - setup.sh
     - vars.sh
   include:
     - .cache-${env:SPOTIPY_CLIENT_USERNAME}
