@@ -1,3 +1,11 @@
+.serverless/
+node_modules/*
+package-lock.json
+package/
+.cache-*
+.DS_Store
+setup.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

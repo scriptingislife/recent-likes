@@ -1,0 +1,9 @@
+#!/bin/sh
+# To run: source vars.sh
+
+export SPOTIPY_CLIENT_ID=''
+export SPOTIPY_CLIENT_SECRET=''
+export SPOTIPY_REDIRECT_URI=''
+export SPOTIPY_CLIENT_USERNAME=''
+export RECENT_LIKES_PLAYLIST_ID=''
+export RECENT_LIKES_PLAYLIST_LEN='30'
